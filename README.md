@@ -1,5 +1,5 @@
 # Hi 👋 My name is Muhammad Zufar Aljauza
-=======================================
+
 
 I am a UTM Student aspiring to be a CyberSecurity specialist
 
