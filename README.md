@@ -1,6 +1,9 @@
 # Hi 👋 My name is Muhammad Zufar Aljauza
 
 
+![image](https://github.com/user-attachments/assets/4a3554c6-66a5-4376-9778-88d2888bf3ae)
+
+
 I am a UTM Student aspiring to be a CyberSecurity specialist
 
 * 🌍 I'm based in UTM Johor
