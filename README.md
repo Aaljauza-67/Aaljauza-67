@@ -1,8 +1,7 @@
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/61ca3385-46ac-4a7a-a557-95537f6b1151)
+
 # Hi 👋 My name is Muhammad Zufar Aljauza
-
-
-![gif](https://github.com/user-attachments/assets/47b56dd7-5278-465f-ac2f-1c6bbd4cc91b)
-
 
 
 I am a UTM Student aspiring to be a CyberSecurity specialist
